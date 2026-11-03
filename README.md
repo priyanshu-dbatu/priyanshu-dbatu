@@ -1,49 +1,53 @@
+Hey, I'm Priyanshu Maurya 👋
 
-# Hey, I'm Priyanshu Maurya 👋
+Computer Science & Engineering Student | Aspiring Software Developer
 
-### 💻 Computer Science Engineering Student | Aspiring Software Developer
+🎓 B.Tech CSE, Dr. Babasaheb Ambedkar Technological University (DBATU)
+📍 India | Expected Graduation: 2028
 
-🎓 B.Tech CSE Student at DBATU  
-🚀 Interested in Machine Learning, Full Stack Development and GIS Technologies.
+I'm interested in building practical technology projects and exploring Machine Learning, Full-Stack Development, GIS, Quantum Computing, and Cybersecurity.
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- Exploring real-world applications of technology.
-- Learning Machine Learning and Data Science.
-- Building web development projects.
-- Interested in Quantum Computing and Cybersecurity.
-- Always learning and improving my programming skills.
+- Currently pursuing B.Tech in Computer Science & Engineering.
+- Exploring machine learning and data-driven applications.
+- Building web development and GIS-based projects.
+- Interested in quantum technologies and cybersecurity.
 
-## 🛠️ Tech Stack
+🛠️ Tech & Interests
 
-- **Languages:** Python, SQL
-- **Areas:** Machine Learning, Full Stack Development, GIS
-- **Interests:** AI/ML, Quantum Computing, Cybersecurity
-- **Tools:** Git, GitHub, VS Code
+- Programming / Data: Python, SQL
+- Development: Full-Stack Web Development
+- Domains: Machine Learning, GIS, Quantum Computing, Cybersecurity
+- Tools: Git, GitHub, VS Code
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 1. ML-Based Semester Result Prediction
-Predicts academic performance using study routines,
-previous qualifications and daily study hours.
+1. ML-Based Semester Result Prediction
 
-### 2. GIS-Based Disaster Management
-Geographic Information System project focused on
-disaster-related information and management.
+Predicts academic performance using study routines, previous qualifications, entrance-exam scores, and daily study time.
 
-### 3. Social Media Manager Website
-A full-stack web development project for managing
-social media activities.
+2. GIS-Based Disaster Management
 
-## 🎓 Education
+A GIS-focused project exploring geographic information for disaster management.
 
-B.Tech – Computer Science & Engineering  
+3. Social Media Manager Website
+
+A full-stack web project for social media account and content management.
+
+🎓 Education
+
+B.Tech – Computer Science & Engineering
 Dr. Babasaheb Ambedkar Technological University (DBATU)
+Expected Graduation: 2028
 
-## 📫 Connect With Me
+📜 Activities
 
-- GitHub: @priyanshu-dbatu
-- LinkedIn: Add your LinkedIn profile URL
+- Participated in a Qiskit event focused on Quantum Communication, Cryptography, and Cybersecurity.
 
----
-⭐ Always learning, building and exploring technology.
+🌐 Connect With Me
+
+- GitHub: https://github.com/priyanshu-dbatu
+- LinkedIn: https://www.linkedin.com/in/priyanshu-maurya-79b95137a/
+
+⭐ Always learning, building, and exploring technology.
